@@ -11,6 +11,7 @@ System.out.println(dividir);
 }
 public void multiplicacao (int n1, int n2) {
 int multiplicacao = n1 * n2 ;
+
 System.out.println(multiplicacao);
 }
 public void subtracao (int n1, int n2) {
